@@ -1,5 +1,6 @@
-commands to use :
+check its here : https://pypi.org/project/prajwal-lib/
 
+commands to use :
 
 pip install setuptools
 pip install twine
